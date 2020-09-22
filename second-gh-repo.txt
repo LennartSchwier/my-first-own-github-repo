@@ -32,3 +32,8 @@ echo "some content for a pull request"
 echo "some content for a pull request"
 echo "some content for a pull request"
 echo "some content for a pull request"
+
+echo "some content for a pull request in a new file"
+echo "some content for a pull request in a new file"
+echo "some content for a pull request in a new file"
+echo "some content for a pull request in a new file"
